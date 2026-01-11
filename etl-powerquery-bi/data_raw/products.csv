@@ -1,0 +1,9 @@
+product_id,product_name,category
+P001,Premium Room,Nights
+P002,Standard Room,Nights
+P003,Breakfast Buffet,F&B
+P004,Dinner Menu,F&B
+P005,Airport Transfer,Service
+P006,Spa Access,Service
+P007,Conference Package,B2B
+P008,Parking,Service
